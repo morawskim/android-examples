@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DNS lookup</string>
+    <string name="resolve">Resolve</string>
+</resources>
