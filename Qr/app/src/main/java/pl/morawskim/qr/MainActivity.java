@@ -28,8 +28,12 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-        String result = data.getExtras().getString("la.droid.qr.result");
         TextView textView = (TextView) findViewById(R.id.text_view);
-        textView.setText(result);
+        if (data != null) {
+            String result = data.getExtras().getString("la.droid.qr.result");
+            textView.setText(result);
+        } else {
+            textView.setText("");
+        }
     }
 }
