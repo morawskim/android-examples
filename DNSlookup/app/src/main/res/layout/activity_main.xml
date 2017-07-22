@@ -18,6 +18,8 @@
             android:ems="10"
             android:inputType="textUri"
             android:hint="@string/domain"
+            android:maxLines="1"
+            android:imeOptions="actionDone"
          />
 
 
