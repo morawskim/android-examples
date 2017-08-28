@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="autocomplete">
+        <item>ActionScript</item>
+        <item>AppleScript</item>
+        <item>Asp</item>
+        <item>BASIC</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>Clojure</item>
+        <item>COBOL</item>
+        <item>ColdFusion</item>
+        <item>Erlang</item>
+        <item>Fortran</item>
+        <item>Groovy</item>
+        <item>Haskell</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Lisp</item>
+        <item>Perl</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Scala</item>
+        <item>Scheme</item>
+    </array>
+</resources>

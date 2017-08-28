@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutocompleteArray</string>
+    <string name="autocomplete_hint">Type something</string>
+    <string name="btn_value">Show value of autocomplete field</string>
+</resources>
